@@ -16,7 +16,7 @@ Você vai ver o poder do Orquestrador de Containers mais famoso do mundo em aç�
 Sexta-feira (07/04) - 20h: Terraform com Google Cloud
 Mais mão na massa com Terraform, só que dessa vez criaremos recursos complexos na Google Cloud em poucos minutos usando o poder da automação.
 
-
+[Link da aplicação provisionada no GCP](https://app-wlvomcpokq-uc.a.run.app/)
 
 
 

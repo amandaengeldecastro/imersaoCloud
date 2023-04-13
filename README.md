@@ -1,21 +1,36 @@
 # Lives de aquecimento para Imersão Cloud na Prática
 
 ## [Canivete Suíço do Profissional MultiCloud & DevOps]
-Descubra as ferramentas essenciais que irão facilitar o seu dia a dia atuando as tecnologias mais modernas e bem pagas do mundo MultiCloud & DevOps.
+Descobrindo as ferramentas essenciais que irão facilitar nosso seu dia a dia atuando com tecnologias mais modernas do mundo MultiCloud & DevOps. 
+
+### Ferramentas de Produtividade:
+1. VSCode
+
+### Documentações auxiliares:
+1. ![AWS](https://docs.aws.amazon.com/);
+2. ![Ansible](https://docs.ansible.com/);
+3. ![GCP](https://cloud.google.com/docs?hl=pt-br);
+4. ![Oracle](https://docs.oracle.com/en/);
+5. ![Python](https://docs.python.org/3/);
+6. ![Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs);
+7. ![Docker](https://docs.docker.com/);
+8. ![Kubernetes](https://kubernetes.io/docs/home/);
+
+
 
 ## [Terraform com AWS na Prática]
-Iremos do Zero a Prática com Terraform, cobrindo desde os fundamentos até o deploy de recurso na AWS com um único comando, de forma 100% automatizada.
+Do Zero a Prática com Terraform, cobrindo desde os fundamentos até o deploy de recurso na AWS com um único comando, de forma 100% automatizada.
 
 ## [Docker com Cloud na Prática]
-Você vai entender como entregar uma aplicação moderna em Cloud usando containers. Iremos do Zero até a aplicação no ar rodando na nuvem.
+Entregar uma aplicação moderna em Cloud usando containers. Do Zero até a aplicação no ar rodando na nuvem.
 
 [Aplicação provisionada no GCP](https://app-wlvomcpokq-uc.a.run.app/)
 
 ## [Kubernetes com Cloud na Prática]
-Você vai ver o poder do Orquestrador de Containers mais famoso do mundo em ação rodando na Google Cloud, além de entender sua arquitetura e como utilizá-lo na prática.
+O poder do Orquestrador de Containers mais famoso do mundo em ação rodando na Google Cloud, sua arquitetura e como utilizá-lo na prática.
 
 ## [Terraform com Google Cloud]
-Mais mão na massa com Terraform, só que dessa vez criaremos recursos complexos na Google Cloud em poucos minutos usando o poder da automação.
+Mais mão na massa com Terraform, só que dessa vez criamos recursos complexos na Google Cloud em poucos minutos usando o poder da automação.
 
 
 # Imersão Cloud na Prática
@@ -28,7 +43,7 @@ Implementar uma arquitetura MultiCloud composta por recursos rodando na AWS e 
 ![Infraestrutura (2) provisionada na Google Cloud](resources/SQL.png)
 
 ## [Missão 2]
-Descobrir como fazer o processo de conversão de uma aplicação e o seu Banco de Dados para rodar em cima desta arquitetura MultiCloud (AWS e Google Cloud) e terá contato com tecnologias como Docker e Kubernetes neste percurso.
+Descobrir como fazer o processo de conversão de uma aplicação e o seu Banco de Dados para rodar em cima desta arquitetura MultiCloud (AWS e Google Cloud). Tivemos contato com tecnologias como Docker e Kubernetes neste percurso.
 
 ![Missão2](resources/deploy.png)
 

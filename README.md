@@ -7,14 +7,14 @@ Descobrindo as ferramentas essenciais que irão facilitar nosso seu dia a dia at
 1. VSCode
 
 ### Documentações auxiliares:
-1. ![AWS](https://docs.aws.amazon.com/);
-2. ![Ansible](https://docs.ansible.com/);
-3. ![GCP](https://cloud.google.com/docs?hl=pt-br);
-4. ![Oracle](https://docs.oracle.com/en/);
-5. ![Python](https://docs.python.org/3/);
-6. ![Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs);
-7. ![Docker](https://docs.docker.com/);
-8. ![Kubernetes](https://kubernetes.io/docs/home/);
+1. [AWS](https://docs.aws.amazon.com/);
+2. [Ansible](https://docs.ansible.com/);
+3. [GCP](https://cloud.google.com/docs?hl=pt-br);
+4. [Oracle](https://docs.oracle.com/en/);
+5. [Python](https://docs.python.org/3/);
+6. [Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs);
+7. [Docker](https://docs.docker.com/);
+8. [Kubernetes](https://kubernetes.io/docs/home/);
 
 
 

@@ -1,28 +1,35 @@
 # Lives de aquecimento para Imersão Cloud na Prática
-Cronograma de lives:
 
-[Segunda-feira (03/04) - 20h: Canivete Suíço do Profissional MultiCloud & DevOps](https://www.youtube.com/watch?v=6HMuEyGD16I)
+## [Canivete Suíço do Profissional MultiCloud & DevOps]
 Descubra as ferramentas essenciais que irão facilitar o seu dia a dia atuando as tecnologias mais modernas e bem pagas do mundo MultiCloud & DevOps.
 
-[Terça-feira (04/04) - 20h: Terraform com AWS na Prática](https://www.youtube.com/watch?v=GDDG5PlKWh4&list=RDCMUCWWBoGQZqlRpsavT-WEVxMA&index=2)
+## [Terraform com AWS na Prática]
 Iremos do Zero a Prática com Terraform, cobrindo desde os fundamentos até o deploy de recurso na AWS com um único comando, de forma 100% automatizada.
 
-[Quarta-feira (05/04) - 20h: Docker com Cloud na Prática](https://www.youtube.com/watch?v=IavPTPdtJRY&list=RDCMUCWWBoGQZqlRpsavT-WEVxMA&index=3)
+## [Docker com Cloud na Prática]
 Você vai entender como entregar uma aplicação moderna em Cloud usando containers. Iremos do Zero até a aplicação no ar rodando na nuvem.
 
-Quinta-feira (06/04) - 20h: Kubernetes com Cloud na Prática
+[Aplicação provisionada no GCP](https://app-wlvomcpokq-uc.a.run.app/)
+
+## [Kubernetes com Cloud na Prática]
 Você vai ver o poder do Orquestrador de Containers mais famoso do mundo em ação rodando na Google Cloud, além de entender sua arquitetura e como utilizá-lo na prática.
 
-Sexta-feira (07/04) - 20h: Terraform com Google Cloud
+## [Terraform com Google Cloud]
 Mais mão na massa com Terraform, só que dessa vez criaremos recursos complexos na Google Cloud em poucos minutos usando o poder da automação.
 
-[Link da aplicação provisionada no GCP](https://app-wlvomcpokq-uc.a.run.app/)
 
+# Imersão Cloud na Prática
 
+## [Missão 1] 
+Implementar uma arquitetura MultiCloud composta por recursos rodando na AWS e Google Cloud Platform de forma 100% automatizada usando Terraform. 
 
+![Infraestrutura provisionada na AWS](resources/S3.png)
+![Infraestrutura (1) provisionada na Google Cloud](resources/GKE.png)
+![Infraestrutura (2) provisionada na Google Cloud](resources/SQL.png)
 
+## [Missão 2]
+Descobrir como fazer o processo de conversão de uma aplicação e o seu Banco de Dados para rodar em cima desta arquitetura MultiCloud (AWS e Google Cloud) e terá contato com tecnologias como Docker e Kubernetes neste percurso.
 
+![Missão2](resources/deploy.png)
 
-
-
-
+[Códigos das aulas para certificação](https://docs.google.com/document/d/1iRyDj1A6HQk9RtWUbg31UzV8TbvAKB_6JbWNKfPp7yg/edit?usp=share_link)

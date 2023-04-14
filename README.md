@@ -35,6 +35,11 @@ Mais mão na massa com Terraform, só que dessa vez criamos recursos complexos n
 
 # Imersão Cloud na Prática
 
+## Projeto Prático Cloud Baseado em Cenário Real
+Durante a imersão, faremos a migração de uma aplicação real de uma rede de hotéis de luxo para um ambiente Cloud, passo a passo. A problemática gira em torno do controle que o hotel precisa ter, de testes de covid, que serão anexados no sistema para que o cliente possa completar o check-in. Para isso, utilizaremos tecnologias mais modernas do mercado durante o processo como: AWS, Google Cloud, Docker, Kubernetes e Terraform. Este projeto será baseado em um cenário do mundo real para que se entenda através da prática, como as empresas no mercado estão migrando para a Nuvem.
+
+![Arquitetura da solução](resources/arquitetura.png)
+
 ## [Missão 1] 
 Implementar uma arquitetura MultiCloud composta por recursos rodando na AWS e Google Cloud Platform de forma 100% automatizada usando Terraform. 
 
@@ -46,5 +51,13 @@ Implementar uma arquitetura MultiCloud composta por recursos rodando na AWS e 
 Descobrir como fazer o processo de conversão de uma aplicação e o seu Banco de Dados para rodar em cima desta arquitetura MultiCloud (AWS e Google Cloud). Tivemos contato com tecnologias como Docker e Kubernetes neste percurso.
 
 ![Missão2](resources/deploy.png)
+
+## [Missão 3]
+Como último passo, você vai descobrir, de forma prática, como fazer o processo de migração dos arquivos da aplicação  e os dados de seu Banco de Dados de forma profissional (arquivos dump~dba~ para dados, e zip da CLI|S3 para arquivos) para a AWS e Google Cloud (arquitetura MultiCloud). 
+
+![HomePage](resources/HomePage.png)
+![Cadastro de Registros](resources/CadastroDeNovosRegistros.png)
+![Registros](resources/Resultados.png)
+![Arquivo PDF no bucket](resources/ArquivoBucketPdf.png)
 
 [Códigos das aulas para certificação](https://docs.google.com/document/d/1iRyDj1A6HQk9RtWUbg31UzV8TbvAKB_6JbWNKfPp7yg/edit?usp=share_link)

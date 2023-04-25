@@ -44,8 +44,7 @@ Durante a imersão, faremos a migração de uma aplicação real de uma rede de 
 Implementar uma arquitetura MultiCloud composta por recursos rodando na AWS e Google Cloud Platform de forma 100% automatizada usando Terraform. 
 
 ![Infraestrutura provisionada na AWS](resources/S3.png)
-![Infraestrutura (1) provisionada na Google Cloud](resources/GKE.png)
-![Infraestrutura (2) provisionada na Google Cloud](resources/SQL.png)
+![Infraestrutura provisionada na Google Cloud](resources/SQL.png)
 
 ## [Missão 2]
 Descobrir como fazer o processo de conversão de uma aplicação e o seu Banco de Dados para rodar em cima desta arquitetura MultiCloud (AWS e Google Cloud). Tivemos contato com tecnologias como Docker e Kubernetes neste percurso.

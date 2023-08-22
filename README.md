@@ -1,7 +1,7 @@
 # Lives de aquecimento para Imersão Cloud na Prática
 
 ## [Canivete Suíço do Profissional MultiCloud & DevOps]
-Descobrindo as ferramentas essenciais que irão facilitar nosso seu dia a dia atuando com tecnologias mais modernas do mundo MultiCloud & DevOps. 
+Descobrindo as ferramentas essenciais que irão facilitar nosso dia a dia atuando com tecnologias mais modernas do mundo MultiCloud & DevOps. 
 
 ### Ferramentas de Produtividade:
 1. VSCode
